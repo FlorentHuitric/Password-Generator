@@ -1,0 +1,15 @@
+.body {
+    text-align: center;
+    justify-content: center;
+    margin: 200px;
+    background-color: blue;
+    position: relative;
+    border-radius: 10px;
+}
+
+.click {
+    text-align: center;
+    justify-content: center;
+    color: antiquewhite;
+    position: inherit;
+}
